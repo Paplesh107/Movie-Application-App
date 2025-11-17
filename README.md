@@ -1,3 +1,4 @@
+ HEAD
 This project is a simple movie browsing web application that loads movie data from a local movies.json file and displays them dynamically on the page. Users can search for movies by title, view details such as overview, genres, actors, release year, and open the trailer link.
 # Project structure
    project/
@@ -69,3 +70,7 @@ Only standard web technologies:
     CSS
 
     JavaScript
+=======
+# Movie-Application-App
+The Application provide the details information about the movie.
+ a1bfc806cc1c4b3d2eb45d7c55a9aa9479860a97
