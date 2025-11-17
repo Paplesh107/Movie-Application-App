@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 1,
+    "title": "12th Fail",
+    "vote_average": 8.9,
+    "overview": "A gripping true-story drama of a determined student navigating systemic obstacles to become an IAS officer.",
+    "genres": ["Drama"],
+    "actors": ["Vikrant Massey", "Harshita Gaur"],
+    "release_year": 2024,
+    "trailer": "https://www.youtube.com/watch?v=cNNwGvwCWCk",
+    "poster_path": "https://via.placeholder.com/300x450?text=Movie+Poster"
+  },
+  {
+    "id": 2,
+    "title": "Gol Maal",
+    "vote_average": 8.5,
+    "overview": "Classic comedy of mistaken identity and boisterous family humor.",
+    "genres": ["Comedy"],
+    "actors": ["Amol Palekar", "Utpal Dutt"],
+    "release_year": 1979,
+    "trailer": "https://www.youtube.com/results?search_query=Gol+Maal+1979+trailer",
+    "poster_path": "https://via.placeholder.com/300x450?text=Movie+Poster"
+  },
+  {
+    "id": 3,
+    "title": "Nayakan",
+    "vote_average": 8.6,
+    "overview": "A man rises within the underworld to become a benevolent don, at great personal cost.",
+    "genres": ["Crime", "Drama"],
+    "actors": ["Kamal Haasan", "Saranya Ponvannan"],
+    "release_year": 1987,
+    "trailer": "https://www.youtube.com/watch?v=XX25ea8PeFk",
+    "poster_path": "https://via.placeholder.com/300x450?text=Movie+Poster"
+  },
+  {
+    "id": 4,
+    "title": "Maharaja",
+    "vote_average": 8.5,
+    "overview": "A barber’s life spirals into chaos after personal loss, revealing a web of intrigue and power.",
+    "genres": ["Thriller"],
+    "actors": ["Vijay Sethupathi"],
+    "release_year": 2024,
+    "trailer": "https://www.youtube.com/results?search_query=Maharaja+2024+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Maharaja"
+  },
+  {
+    "id": 5,
+    "title": "Apur Sansar (The World of Apu)",
+    "vote_average": 8.4,
+    "overview": "The final chapter of Apu’s journey into adulthood, love, fatherhood, and redemption.",
+    "genres": ["Drama"],
+    "actors": ["Soumitra Chatterjee"],
+    "release_year": 1959,
+    "trailer": "https://www.youtube.com/results?search_query=Apur+Sansar+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Apur+Sansar"
+  },
+  {
+    "id": 6,
+    "title": "Anbe Sivam",
+    "vote_average": 8.6,
+    "overview": "A journey of two contrasting men who forge a friendship amid unexpected circumstances.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Kamal Haasan", "R. Madhavan"],
+    "release_year": 2003,
+    "trailer": "https://www.youtube.com/results?search_query=Anbe+Sivam+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Anbe+Sivam"
+  },
+  {
+    "id": 7,
+    "title": "3 Idiots",
+    "vote_average": 8.4,
+    "overview": "In a university campus, three friends embark on a journey to discover the true meaning of life.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+    "release_year": 2009,
+    "trailer": "https://youtu.be/xvszmNXdM4w",
+    "poster_path": "https://media-cache.cinematerial.com/p/500x/sdbos9ie/three-idiots-indian-movie-poster.jpg?v=1456798706"
+  },
+  {
+    "id": 8,
+    "title": "Manichitrathazhu",
+    "vote_average": 8.7,
+    "overview": "A psychological thriller where contemporary grief entwines with supernatural folklore.",
+    "genres": ["Horror", "Thriller"],
+    "actors": ["Mohanlal", "Shobana"],
+    "release_year": 1993,
+    "trailer": "https://www.youtube.com/results?search_query=Manichitrathazhu+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Manichitrathazhu"
+  },
+  {
+    "id": 9,
+    "title": "Kumbalangi Nights",
+    "vote_average": 8.5,
+    "overview": "A story of four brothers navigating love, rivalry, and redemption.",
+    "genres": ["Drama"],
+    "actors": ["Fahadh Faasil", "Soubin Shahir"],
+    "release_year": 2019,
+    "trailer": "https://www.youtube.com/watch?v=9jguu1TUz2Q",
+    "poster_path": "https://via.placeholder.com/500x750?text=Kumbalangi+Nights"
+  },
+  {
+    "id": 10,
+    "title": "Rocketry: The Nambi Effect",
+    "vote_average": 8.7,
+    "overview": "The true story of Nambi Narayanan, an aerospace engineer.",
+    "genres": ["Biography", "Drama"],
+    "actors": ["R. Madhavan"],
+    "release_year": 2022,
+    "trailer": "https://www.youtube.com/watch?v=BD5of-Fh27E",
+    "poster_path": "https://via.placeholder.com/500x750?text=Rocketry"
+  },
+  {
+    "id": 11,
+    "title": "Black Friday",
+    "vote_average": 8.4,
+    "overview": "An account of the 1993 Bombay bombings.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Kay Kay Menon", "Aditya Srivastava"],
+    "release_year": 2004,
+    "trailer": "https://www.youtube.com/results?search_query=Black+Friday+2004+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Black+Friday"
+  },
+  {
+    "id": 12,
+    "title": "Taare Zameen Par",
+    "vote_average": 8.4,
+    "overview": "A dyslexic child is helped to flourish by a caring art teacher.",
+    "genres": ["Drama", "Family"],
+    "actors": ["Darsheel Safary", "Aamir Khan"],
+    "release_year": 2007,
+    "trailer": "https://www.youtube.com/watch?v=tn_2Ie_jtX8",
+    "poster_path": "https://via.placeholder.com/500x750?text=Taare+Zameen+Par"
+  },
+  {
+    "id": 13,
+    "title": "Jai Bhim",
+    "vote_average": 8.7,
+    "overview": "A lawyer fights for justice for marginalized tribal communities.",
+    "genres": ["Drama", "Legal"],
+    "actors": ["Suriya"],
+    "release_year": 2021,
+    "trailer": "https://www.youtube.com/watch?v=nnXpbTFrqXA",
+    "poster_path": "https://via.placeholder.com/500x750?text=Jai+Bhim"
+  },
+  {
+    "id": 14,
+    "title": "Soorarai Pottru",
+    "vote_average": 8.7,
+    "overview": "Inspired by the life of Air Deccan founder.",
+    "genres": ["Drama", "Biography"],
+    "actors": ["Suriya"],
+    "release_year": 2020,
+    "trailer": "https://www.youtube.com/watch?v=fa_DIwRsa9o",
+    "poster_path": "https://via.placeholder.com/500x750?text=Soorarai+Pottru"
+  },
+  {
+    "id": 15,
+    "title": "Laapataa Ladies",
+    "vote_average": 8.5,
+    "overview": "A drama about women reclaiming their purpose.",
+    "genres": ["Drama"],
+    "actors": ["Ensemble cast"],
+    "release_year": 2024,
+    "trailer": "https://www.youtube.com/results?search_query=Laapataa+Ladies+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Laapataa+Ladies"
+  },
+  {
+    "id": 16,
+    "title": "777 Charlie",
+    "vote_average": 8.7,
+    "overview": "A dog's journey brings healing to a man's life.",
+    "genres": ["Drama", "Adventure"],
+    "actors": ["Rakshit Shetty"],
+    "release_year": 2022,
+    "trailer": "https://www.youtube.com/watch?v=G9rwnf2Ud6c",
+    "poster_path": "https://via.placeholder.com/500x750?text=777+Charlie"
+  },
+  {
+    "id": 17,
+    "title": "C/o Kancharapalem",
+    "vote_average": 8.8,
+    "overview": "Multiple love stories unfold in an Indian village.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Ensemble cast"],
+    "release_year": 2018,
+    "trailer": "https://www.youtube.com/watch?v=2F_ODp5ZC8o",
+    "poster_path": "https://via.placeholder.com/500x750?text=C/o+Kancharapalem"
+  },
+  {
+    "id": 18,
+    "title": "Sandesham",
+    "vote_average": 9.0,
+    "overview": "A political satire centered on familial strife.",
+    "genres": ["Satire", "Comedy"],
+    "actors": ["Thilakan", "Sreenivasan"],
+    "release_year": 1991,
+    "trailer": "https://www.youtube.com/results?search_query=Sandesham+1991+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Sandesham"
+  },
+  {
+    "id": 19,
+    "title": "Dangal",
+    "vote_average": 8.5,
+    "overview": "A former wrestler trains his daughters to become world-class wrestlers.",
+    "genres": ["Sports", "Drama"],
+    "actors": ["Aamir Khan"],
+    "release_year": 2016,
+    "trailer": "https://www.youtube.com/watch?v=x_7YlGv9u1g",
+    "poster_path": "https://via.placeholder.com/500x750?text=Dangal"
+  },
+  {
+    "id": 20,
+    "title": "Kireedam",
+    "vote_average": 8.9,
+    "overview": "A young man dreams of being a police officer but faces tragic events.",
+    "genres": ["Drama", "Tragedy"],
+    "actors": ["Mohanlal"],
+    "release_year": 1989,
+    "trailer": "https://www.youtube.com/results?search_query=Kireedam+1989+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Kireedam"
+  },
+  {
+    "id": 21,
+    "title": "Drishyam",
+    "vote_average": 8.6,
+    "overview": "A man protects his family by outsmarting the police.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Mohanlal"],
+    "release_year": 2013,
+    "trailer": "https://www.youtube.com/watch?v=A-EM0Z5tpTg",
+    "poster_path": "https://via.placeholder.com/500x750?text=Drishyam"
+  },
+  {
+    "id": 22,
+    "title": "Visaaranai",
+    "vote_average": 8.5,
+    "overview": "Based on real events involving police torture.",
+    "genres": ["Thriller", "Crime"],
+    "actors": ["Samuthirakani", "Kishore", "Dinesh"],
+    "release_year": 2015,
+    "trailer": "https://www.youtube.com/watch?v=R9E6zNcW77A",
+    "poster_path": "https://via.placeholder.com/500x750?text=Visaaranai"
+  },
+  {
+    "id": 23,
+    "title": "Thani Oruvan",
+    "vote_average": 8.4,
+    "overview": "A cop fights a corrupt scientist.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["Jayam Ravi"],
+    "release_year": 2015,
+    "trailer": "https://www.youtube.com/watch?v=xAp3M-7zVdI",
+    "poster_path": "https://via.placeholder.com/500x750?text=Thani+Oruvan"
+  },
+  {
+    "id": 24,
+    "title": "96",
+    "vote_average": 8.5,
+    "overview": "A nostalgic romance between two high school sweethearts.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Vijay Sethupathi", "Trisha"],
+    "release_year": 2018,
+    "trailer": "https://www.youtube.com/watch?v=rKXNjSJlMlE",
+    "poster_path": "https://via.placeholder.com/500x750?text=96"
+  },
+  {
+    "id": 25,
+    "title": "Thalapathi",
+    "vote_average": 8.5,
+    "overview": "A tale of friendship and loyalty loosely based on the Mahabharata.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Rajinikanth", "Mammootty"],
+    "release_year": 1991,
+    "trailer": "https://www.youtube.com/results?search_query=Thalapathi+1991+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Thalapathi"
+  },
+  {
+    "id": 26,
+    "title": "Mouna Ragam",
+    "vote_average": 8.6,
+    "overview": "A young woman navigates an arranged marriage and personal identity.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Revathi"],
+    "release_year": 1986,
+    "trailer": "https://www.youtube.com/results?search_query=Mouna+Ragam+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Mouna+Ragam"
+  },
+  {
+    "id": 27,
+    "title": "Vikram Vedha",
+    "vote_average": 8.7,
+    "overview": "A cop chases a notorious gangster in a philosophical thriller.",
+    "genres": ["Thriller", "Crime"],
+    "actors": ["R. Madhavan", "Vijay Sethupathi"],
+    "release_year": 2017,
+    "trailer": "https://www.youtube.com/watch?v=1sVr-uWZPjE",
+    "poster_path": "https://via.placeholder.com/500x750?text=Vikram+Vedha"
+  },
+  {
+    "id": 28,
+    "title": "Peranbu",
+    "vote_average": 8.7,
+    "overview": "A father struggles to connect with his daughter who has cerebral palsy.",
+    "genres": ["Drama"],
+    "actors": ["Mammootty"],
+    "release_year": 2018,
+    "trailer": "https://www.youtube.com/watch?v=3K0R-UxE6t0",
+    "poster_path": "https://via.placeholder.com/500x750?text=Peranbu"
+  },
+  {
+    "id": 29,
+    "title": "Chithram",
+    "vote_average": 8.4,
+    "overview": "A man is hired to pretend as a woman's husband.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Mohanlal"],
+    "release_year": 1988,
+    "trailer": "https://www.youtube.com/results?search_query=Chithram+1988+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Chithram"
+  },
+  {
+    "id": 30,
+    "title": "Oru Vadakkan Veeragatha",
+    "vote_average": 8.4,
+    "overview": "A tale of valor seen from the perspective of the antagonist.",
+    "genres": ["Historical", "Drama"],
+    "actors": ["Mammootty"],
+    "release_year": 1989,
+    "trailer": "https://www.youtube.com/results?search_query=Oru+Vadakkan+Veeragatha+trailer",
+    "poster_path": "https://via.placeholder.com/500x750?text=Oru+Vadakkan+Veeragatha"
+  },
+
+
+  {
+    "id": 31,
+    "title": "Sandesham",
+    "vote_average": 9.0,
+    "overview": "Political satire where brothers align with opposing parties, leading to family uproar.",
+    "genres": ["Comedy", "Satire"],
+    "actors": ["Thilakan", "Sreenivasan"],
+    "release_year": 1991,
+    "trailer": ""
+  }
+  ,
+  {
+    "id": 32,
+    "title": "Baahubali: The Beginning",
+    "vote_average": 8.1,
+    "overview": "An epic saga about two brothers battling for a kingdom’s throne.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "actors": ["Prabhas", "Rana Daggubati"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 33,
+    "title": "Baahubali 2: The Conclusion",
+    "vote_average": 8.2,
+    "overview": "The climactic end to the Baahubali tale as fate and treachery collide.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "actors": ["Prabhas", "Rana Daggubati"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 34,
+    "title": "KGF: Chapter 1",
+    "vote_average": 8.2,
+    "overview": "A young man rises in the brutal world of Kolar Gold Fields to become a feared don.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Yash"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 35,
+    "title": "KGF: Chapter 2",
+    "vote_average": 8.2,
+    "overview": "The saga continues as Rocky faces insurmountable odds in his quest for power.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Yash"],
+    "release_year": 2022,
+    "trailer": ""
+  },
+  {
+    "id": 36,
+    "title": "Jersey",
+    "vote_average": 8.5,
+    "overview": "A failed cricketer makes a poignant comeback inspired by love and legacy.",
+    "genres": ["Sports", "Drama"],
+    "actors": ["Nani"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 37,
+    "title": "Asuran",
+    "vote_average": 8.5,
+    "overview": "A farmer’s fierce revolt against oppression and systemic injustice.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Dhanush"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 38,
+    "title": "Super Deluxe",
+    "vote_average": 8.4,
+    "overview": "Interconnected lives collide in surreal ways in this genre‑bending Tamil chronicle.",
+    "genres": ["Drama", "Comedy", "Thriller"],
+    "actors": ["Vijay Sethupathi", "Samantha"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 39,
+    "title": "Mahanati",
+    "vote_average": 8.5,
+    "overview": "Biopic of legendary actress Savitri, charting her meteoric rise and tragic fall.",
+    "genres": ["Biography", "Drama"],
+    "actors": ["Keerthy Suresh"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 40,
+    "title": "Bangalore Days",
+    "vote_average": 8.3,
+    "overview": "Three cousins navigate youth, love, and friendship in the city of Bangalore.",
+    "genres": ["Drama", "Romance"],
+    "actors": ["Dulquer Salmaan", "Nivin Pauly"],
+    "release_year": 2014,
+    "trailer": ""
+  },
+  {
+    "id": 41,
+    "title": "Oh My Kadavule",
+    "vote_average": 8.4,
+    "overview": "A magical second chance at love changes a young man’s life forever.",
+    "genres": ["Romance", "Comedy", "Fantasy"],
+    "actors": ["Ashok Selvan", "Ritika Singh"],
+    "release_year": 2020,
+    "trailer": ""
+  },
+  {
+    "id": 42,
+    "title": "Mahanadhi",
+    "vote_average": 8.6,
+    "overview": "A grieving father’s desperate search for his missing daughter in a corrupt system.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Kamal Haasan"],
+    "release_year": 1994,
+    "trailer": ""
+  },
+  {
+    "id": 43,
+    "title": "Ratsasan",
+    "vote_average": 8.3,
+    "overview": "An aspiring director turned cop hunts a serial killer preying on schoolgirls.",
+    "genres": ["Thriller", "Crime"],
+    "actors": ["Vishnu Vishal", "Amala Paul"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 44,
+    "title": "Rangasthalam",
+    "vote_average": 8.2,
+    "overview": "Two brothers challenge a corrupt village government in 1980s rural India.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Ram Charan", "Samantha"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 45,
+    "title": "Pelli Choopulu",
+    "vote_average": 8.2,
+    "overview": "A young man and woman connect through a matchmaking event, leading to love and success.",
+    "genres": ["Romance", "Comedy"],
+    "actors": ["Vijay Deverakonda"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 46,
+    "title": "Eega",
+    "vote_average": 7.7,
+    "overview": "Reincarnated as a housefly, a man seeks revenge against his murderer.",
+    "genres": ["Fantasy", "Action"],
+    "actors": ["Nani"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 47,
+    "title": "Pather Panchali",
+    "vote_average": 8.6,
+    "overview": "A poetic portrayal of rural life in Bengal through a young boy's eyes.",
+    "genres": ["Drama"],
+    "actors": ["Subir Banerjee"],
+    "release_year": 1955,
+    "trailer": ""
+  },
+  {
+    "id": 48,
+    "title": "Sardar Udham",
+    "vote_average": 8.4,
+    "overview": "The biographical account of revolutionary Sardar Udham Singh and his quest for justice.",
+    "genres": ["Crime", "Drama", "Biography"],
+    "actors": ["Vicky Kaushal"],
+    "release_year": 2021,
+    "trailer": ""
+  },
+  {
+    "id": 49,
+    "title": "Chhichhore",
+    "vote_average": 8.3,
+    "overview": "College friends reunite to support a distressed friend's son, while reminiscing about their youth.",
+    "genres": ["Comedy", "Drama", "Sport"],
+    "actors": ["Sushant Singh Rajput", "Shraddha Kapoor"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 50,
+    "title": "Sita Ramam",
+    "vote_average": 8.5,
+    "overview": "A war-time romantic period drama unveiling secrets tied to love and destiny.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Dulquer Salmaan", "Mrunal Thakur"],
+    "release_year": 2022,
+    "trailer": ""
+  },
+  
+  {
+    "id": 51,
+    "title": "Maro Charitra",
+    "vote_average": 8.3,
+    "overview": "A tragic cross-cultural romance between a Tamil man and a Telugu woman.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Kamal Haasan", "Saritha"],
+    "release_year": 1978,
+    "trailer": ""
+  },
+  {
+    "id": 52,
+    "title": "Minnal Murali",
+    "vote_average": 8.3,
+    "overview": "A tailor gains superpowers and dons a local superhero mantle in a small town.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "actors": ["Tovino Thomas"],
+    "release_year": 2021,
+    "trailer": ""
+  },
+  {
+    "id": 53,
+    "title": "Ala Vaikunthapurramuloo",
+    "vote_average": 8.0,
+    "overview": "A wealthy man discovers his true identity, leading to family drama and redemption.",
+    "genres": ["Drama", "Family"],
+    "actors": ["Allu Arjun"],
+    "release_year": 2020,
+    "trailer": ""
+  },
+  {
+    "id": 54,
+    "title": "Vikram Vedha",
+    "vote_average": 8.2,
+    "overview": "A cat-and-mouse game unfolds between a righteous cop and a notorious gangster.",
+    "genres": ["Action", "Thriller", "Crime"],
+    "actors": ["R. Madhavan", "Vijay Sethupathi"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 55,
+    "title": "Super 30",
+    "vote_average": 8.0,
+    "overview": "Based on the life of mathematician Anand Kumar and his educational program.",
+    "genres": ["Biography", "Drama"],
+    "actors": ["Hrithik Roshan"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 56,
+    "title": "Thani Oruvan",
+    "vote_average": 8.1,
+    "overview": "An honest cop's pursuit of a corrupt scientist reaches a thrilling climax.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["Jayam Ravi", "Arvind Swamy"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 57,
+    "title": "Anbe Sivam",
+    "vote_average": 8.7,
+    "overview": "Two men with different ideologies embark on a life-changing journey together.",
+    "genres": ["Drama", "Comedy"],
+    "actors": ["Kamal Haasan", "R. Madhavan"],
+    "release_year": 2003,
+    "trailer": ""
+  },
+  {
+    "id": 58,
+    "title": "Kannathil Muthamittal",
+    "vote_average": 8.5,
+    "overview": "A girl discovers the truth about her mother and the war-torn background of her adoption.",
+    "genres": ["Drama", "War"],
+    "actors": ["Nandita Das", "Madhavan"],
+    "release_year": 2002,
+    "trailer": ""
+  },
+  {
+    "id": 59,
+    "title": "Autograph",
+    "vote_average": 8.3,
+    "overview": "A man invites his old lovers to his wedding and relives his past.",
+    "genres": ["Drama", "Romance"],
+    "actors": ["S. J. Suryah", "Gopika"],
+    "release_year": 2004,
+    "trailer": ""
+  },
+  {
+    "id": 60,
+    "title": "Pariyerum Perumal",
+    "vote_average": 8.6,
+    "overview": "A law student from a marginalized community fights social injustices.",
+    "genres": ["Drama"],
+    "actors": ["Kathir", "Anandhi"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 61,
+    "title": "Soodhu Kavvum",
+    "vote_average": 8.1,
+    "overview": "A dark comedy about a group of small-time kidnappers and their misadventures.",
+    "genres": ["Comedy", "Crime"],
+    "actors": ["Vijay Sethupathi"],
+    "release_year": 2013,
+    "trailer": ""
+  },
+  {
+    "id": 62,
+    "title": "Ustad Hotel",
+    "vote_average": 8.3,
+    "overview": "A young man aspires to become a chef against his father's wishes.",
+    "genres": ["Drama", "Family"],
+    "actors": ["Dulquer Salmaan"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 63,
+    "title": "Drishyam",
+    "vote_average": 8.2,
+    "overview": "A man uses his wit to protect his family after an unexpected crime.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Mohanlal"],
+    "release_year": 2013,
+    "trailer": ""
+  },
+  {
+    "id": 64,
+    "title": "Chak De! India",
+    "vote_average": 8.2,
+    "overview": "A disgraced hockey player coaches the women's national team to victory.",
+    "genres": ["Drama", "Sport"],
+    "actors": ["Shah Rukh Khan"],
+    "release_year": 2007,
+    "trailer": ""
+  },
+  {
+    "id": 65,
+    "title": "Black Friday",
+    "vote_average": 8.3,
+    "overview": "Investigates the 1993 Bombay bombings through various perspectives.",
+    "genres": ["Crime", "Drama", "History"],
+    "actors": ["Kay Kay Menon"],
+    "release_year": 2004,
+    "trailer": ""
+  },
+  {
+    "id": 66,
+    "title": "Kahaani",
+    "vote_average": 8.1,
+    "overview": "A pregnant woman searches for her missing husband in Kolkata.",
+    "genres": ["Thriller", "Mystery"],
+    "actors": ["Vidya Balan"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 67,
+    "title": "Talaash",
+    "vote_average": 7.6,
+    "overview": "A police officer investigates a mysterious car accident.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Aamir Khan", "Rani Mukerji"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 68,
+    "title": "Queen",
+    "vote_average": 8.2,
+    "overview": "A young woman embarks on a solo honeymoon trip after her fiancé calls off their wedding.",
+    "genres": ["Drama", "Comedy"],
+    "actors": ["Kangana Ranaut"],
+    "release_year": 2014,
+    "trailer": ""
+  },
+  {
+    "id": 69,
+    "title": "Barfi!",
+    "vote_average": 8.1,
+    "overview": "A story of a deaf-mute man and his relationships with two women.",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "actors": ["Ranbir Kapoor", "Priyanka Chopra"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 70,
+    "title": "Bajrangi Bhaijaan",
+    "vote_average": 8.0,
+    "overview": "A man helps a mute Pakistani girl reunite with her family.",
+    "genres": ["Drama", "Adventure"],
+    "actors": ["Salman Khan", "Kareena Kapoor"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 71,
+    "title": "Paan Singh Tomar",
+    "vote_average": 8.1,
+    "overview": "The true story of an athlete turned notorious dacoit.",
+    "genres": ["Biography", "Drama", "Sport"],
+    "actors": ["Irrfan Khan"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 72,
+    "title": "Haider",
+    "vote_average": 8.2,
+    "overview": "A modern adaptation of Shakespeare's Hamlet set against the Kashmir conflict.",
+    "genres": ["Drama", "Thriller"],
+    "actors": ["Shahid Kapoor", "Tabu"],
+    "release_year": 2014,
+    "trailer": ""
+  },
+  {
+    "id": 73,
+    "title": "Drishyam 2",
+    "vote_average": 8.6,
+    "overview": "Years after a crime, the family’s secrets resurface in a deadly standoff with the law.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Mohanlal"],
+    "release_year": 2021,
+    "trailer": ""
+  },
+  {
+    "id": 74,
+    "title": "Pariyerum Perumal",
+    "vote_average": 8.6,
+    "overview": "A law student from a marginalized community fights social injustices.",
+    "genres": ["Drama"],
+    "actors": ["Kathir", "Anandhi"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 75,
+    "title": "Rangasthalam",
+    "vote_average": 8.2,
+    "overview": "Two brothers challenge a corrupt village government in 1980s rural India.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Ram Charan", "Samantha"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 76,
+    "title": "Pushpa: The Rise – Part 1",
+    "vote_average": 8.1,
+    "overview": "An ambitious laborer rises through the ranks of a smuggling syndicate in India’s forests.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Allu Arjun"],
+    "release_year": 2021,
+    "trailer": ""
+  },
+  {
+    "id": 77,
+    "title": "Vikram",
+    "vote_average": 8.5,
+    "overview": "An undercover cop fights a group of criminals with bio-weapons in Chennai.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["Kamal Haasan", "Vijay Sethupathi"],
+    "release_year": 2022,
+    "trailer": ""
+  },
+  {
+    "id": 78,
+    "title": "Kahaani 2",
+    "vote_average": 7.6,
+    "overview": "A woman protects a child with a dark past while evading the law.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Vidya Balan", "Arjun Rampal"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 79,
+    "title": "Nil Battey Sannata",
+    "vote_average": 8.0,
+    "overview": "A single mother encourages her daughter to study hard to escape poverty.",
+    "genres": ["Drama", "Comedy"],
+    "actors": ["Swara Bhaskar", "Riya Shukla"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 80,
+    "title": "Drishyam",
+    "vote_average": 8.2,
+    "overview": "A man uses his wit to protect his family after an unexpected crime.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Ajay Devgn"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 81,
+    "title": "Uri: The Surgical Strike",
+    "vote_average": 8.0,
+    "overview": "Based on the true events of the surgical strikes carried out by Indian Army.",
+    "genres": ["Action", "Drama", "War"],
+    "actors": ["Vicky Kaushal"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 82,
+    "title": "Badhaai Ho",
+    "vote_average": 7.6,
+    "overview": "A middle-aged couple’s unexpected pregnancy shakes up their family.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Ayushmann Khurrana"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 83,
+    "title": "Masaan",
+    "vote_average": 7.7,
+    "overview": "Intersecting stories of love, loss, and redemption in Varanasi.",
+    "genres": ["Drama"],
+    "actors": ["Vicky Kaushal", "Richa Chadha"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 84,
+    "title": "Detective Byomkesh Bakshy!",
+    "vote_average": 7.3,
+    "overview": "A detective solves mysteries in 1940s Calcutta amid political turmoil.",
+    "genres": ["Crime", "Thriller"],
+    "actors": ["Sushant Singh Rajput"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 85,
+    "title": "Bharat Ane Nenu",
+    "vote_average": 7.9,
+    "overview": "A young man becomes the Chief Minister and strives to reform his state.",
+    "genres": ["Action", "Drama"],
+    "actors": ["Mahesh Babu"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 86,
+    "title": "Kahaani",
+    "vote_average": 8.1,
+    "overview": "A pregnant woman searches for her missing husband in Kolkata.",
+    "genres": ["Thriller", "Mystery"],
+    "actors": ["Vidya Balan"],
+    "release_year": 2012,
+    "trailer": ""
+  },
+  {
+    "id": 87,
+    "title": "OK Kanmani",
+    "vote_average": 7.7,
+    "overview": "A couple in a live-in relationship struggles to keep their romance alive.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Dulquer Salmaan", "Nithya Menen"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 88,
+    "title": "Pariyerum Perumal",
+    "vote_average": 8.6,
+    "overview": "A law student from a marginalized community fights social injustices.",
+    "genres": ["Drama"],
+    "actors": ["Kathir", "Anandhi"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 89,
+    "title": "Super Deluxe",
+    "vote_average": 8.4,
+    "overview": "Interconnected lives collide in surreal ways in this genre‑bending Tamil chronicle.",
+    "genres": ["Drama", "Comedy", "Thriller"],
+    "actors": ["Vijay Sethupathi", "Samantha"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 90,
+    "title": "Kirik Party",
+    "vote_average": 8.0,
+    "overview": "A nostalgic look at college life, friendships, and love.",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": ["Rakshit Shetty"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 91,
+    "title": "Thappad",
+    "vote_average": 7.6,
+    "overview": "A woman rethinks her marriage after a single act of violence.",
+    "genres": ["Drama"],
+    "actors": ["Taapsee Pannu"],
+    "release_year": 2020,
+    "trailer": ""
+  },
+  {
+    "id": 92,
+    "title": "Natsamrat",
+    "vote_average": 8.5,
+    "overview": "An aging stage actor struggles to come to terms with his retirement.",
+    "genres": ["Drama"],
+    "actors": ["Nana Patekar"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 93,
+    "title": "Kammatipaadam",
+    "vote_average": 8.3,
+    "overview": "The story of friendship, crime, and land struggles in Kochi.",
+    "genres": ["Crime", "Drama"],
+    "actors": ["Dulquer Salmaan"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 94,
+    "title": "Kai Po Che!",
+    "vote_average": 8.1,
+    "overview": "Three friends navigate dreams, friendship, and tragedy in Gujarat.",
+    "genres": ["Drama"],
+    "actors": ["Sushant Singh Rajput"],
+    "release_year": 2013,
+    "trailer": ""
+  },
+  {
+    "id": 95,
+    "title": "Maqbool",
+    "vote_average": 8.1,
+    "overview": "An Indian adaptation of Macbeth set in the Mumbai underworld.",
+    "genres": ["Crime", "Drama"],
+    "actors": ["Irrfan Khan", "Om Puri"],
+    "release_year": 2003,
+    "trailer": ""
+  },
+  {
+    "id": 96,
+    "title": "Black",
+    "vote_average": 8.2,
+    "overview": "A teacher helps a blind and deaf girl find her way in the world.",
+    "genres": ["Drama"],
+    "actors": ["Amitabh Bachchan", "Rani Mukerji"],
+    "release_year": 2005,
+    "trailer": ""
+  },
+  {
+    "id": 97,
+    "title": "Lunchbox",
+    "vote_average": 8.0,
+    "overview": "A mistaken lunchbox delivery leads to a unique friendship in Mumbai.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Irrfan Khan", "Nimrat Kaur"],
+    "release_year": 2013,
+    "trailer": ""
+  },
+  {
+    "id": 98,
+    "title": "Newton",
+    "vote_average": 7.9,
+    "overview": "A government clerk tries to conduct free and fair elections in a conflict zone.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Rajkummar Rao"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 99,
+    "title": "Omkara",
+    "vote_average": 8.1,
+    "overview": "An adaptation of Othello set in rural India’s political landscape.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Ajay Devgn", "Kareena Kapoor"],
+    "release_year": 2006,
+    "trailer": ""
+  },
+  {
+    "id": 100,
+    "title": "Vinnaithaandi Varuvaayaa",
+    "vote_average": 7.7,
+    "overview": "A romantic drama focusing on a couple’s trials in love and life.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Silambarasan", "Trisha"],
+    "release_year": 2010,
+    "trailer": ""
+  },
+  {
+    "id": 101,
+    "title": "Piku",
+    "vote_average": 8.1,
+    "overview": "A quirky tale of a father-daughter relationship and their journey from Delhi to Kolkata.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Deepika Padukone", "Amitabh Bachchan", "Irrfan Khan"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 102,
+    "title": "Vaaranam Aayiram",
+    "vote_average": 8.0,
+    "overview": "A son reflects on the life and legacy of his father in this emotional drama.",
+    "genres": ["Drama", "Romance"],
+    "actors": ["Suriya", "Divya Spandana"],
+    "release_year": 2008,
+    "trailer": ""
+  },
+  {
+    "id": 103,
+    "title": "Sairat",
+    "vote_average": 8.6,
+    "overview": "A tragic love story of two young lovers facing social caste barriers in rural Maharashtra.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Akash Thosar", "Rinku Rajguru"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 104,
+    "title": "Udaan",
+    "vote_average": 8.1,
+    "overview": "A teenager returns home after being expelled from school and struggles with his authoritarian father.",
+    "genres": ["Drama"],
+    "actors": ["Rajat Barmecha"],
+    "release_year": 2010,
+    "trailer": ""
+  },
+  {
+    "id": 105,
+    "title": "Angamaly Diaries",
+    "vote_average": 8.0,
+    "overview": "A gritty Malayalam film about a group of friends trying to make it big in Angamaly.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Fahadh Faasil"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 106,
+    "title": "Kirik Party",
+    "vote_average": 8.0,
+    "overview": "A nostalgic comedy-drama about college life and friendship.",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": ["Rakshit Shetty", "Sanjana Anand"],
+    "release_year": 2016,
+    "trailer": ""
+  },
+  {
+    "id": 107,
+    "title": "Premam",
+    "vote_average": 8.2,
+    "overview": "A coming-of-age romantic drama that follows a young man’s love story across three phases of his life.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Nivin Pauly"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 108,
+    "title": "Mersal",
+    "vote_average": 7.9,
+    "overview": "A doctor seeks justice for his family by exposing corruption in the medical industry.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["Vijay", "Samantha"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 109,
+    "title": "Drishyam",
+    "vote_average": 8.3,
+    "overview": "A man uses his intelligence to protect his family from the law after an unexpected crime.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Ajay Devgn", "Tabu"],
+    "release_year": 2015,
+    "trailer": ""
+  },
+  {
+    "id": 110,
+    "title": "Kaithi",
+    "vote_average": 8.3,
+    "overview": "A recently released prisoner tries to help the police catch drug lords to see his daughter.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["Karthi"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 111,
+    "title": "Lucia",
+    "vote_average": 8.4,
+    "overview": "A psychological thriller about an insomniac who takes a pill that blurs the lines between dreams and reality.",
+    "genres": ["Thriller", "Mystery"],
+    "actors": ["Satish Ninasam", "Sruthi Hariharan"],
+    "release_year": 2013,
+    "trailer": ""
+  },
+  {
+    "id": 112,
+    "title": "Agent Sai Srinivasa Athreya",
+    "vote_average": 8.1,
+    "overview": "A detective solves a case involving missing bodies with a mix of humor and suspense.",
+    "genres": ["Comedy", "Thriller"],
+    "actors": ["Naveen Polishetty"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 113,
+    "title": "Drushyam 2",
+    "vote_average": 8.6,
+    "overview": "Years after the initial crime, the family is again caught in a deadly game with the police.",
+    "genres": ["Thriller", "Drama"],
+    "actors": ["Mohanlal"],
+    "release_year": 2021,
+    "trailer": ""
+  },
+  {
+    "id": 114,
+    "title": "96",
+    "vote_average": 8.5,
+    "overview": "A poignant story of two high school sweethearts reuniting years later.",
+    "genres": ["Romance", "Drama"],
+    "actors": ["Vijay Sethupathi", "Trisha"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 115,
+    "title": "Vikram Vedha",
+    "vote_average": 8.2,
+    "overview": "A cop chases a gangster who challenges his beliefs and ethics.",
+    "genres": ["Action", "Thriller"],
+    "actors": ["R. Madhavan", "Vijay Sethupathi"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 116,
+    "title": "Thondimuthalum Driksakshiyum",
+    "vote_average": 8.2,
+    "overview": "A story revolving around a theft and its consequences through multiple perspectives.",
+    "genres": ["Drama", "Crime"],
+    "actors": ["Fahadh Faasil", "Nimisha Sajayan"],
+    "release_year": 2017,
+    "trailer": ""
+  },
+  {
+    "id": 117,
+    "title": "Pariyerum Perumal",
+    "vote_average": 8.6,
+    "overview": "A law student confronts caste discrimination in Tamil Nadu.",
+    "genres": ["Drama"],
+    "actors": ["Kathir", "Anandhi"],
+    "release_year": 2018,
+    "trailer": ""
+  },
+  {
+    "id": 118,
+    "title": "Queen",
+    "vote_average": 8.2,
+    "overview": "A woman embarks on a solo honeymoon after her wedding is called off.",
+    "genres": ["Comedy", "Drama"],
+    "actors": ["Kangana Ranaut"],
+    "release_year": 2014,
+    "trailer": ""
+  },
+  {
+    "id": 119,
+    "title": "Super Deluxe",
+    "vote_average": 8.4,
+    "overview": "Multiple lives intertwine in this dark, genre-bending Tamil drama.",
+    "genres": ["Drama", "Comedy", "Thriller"],
+    "actors": ["Vijay Sethupathi", "Samantha"],
+    "release_year": 2019,
+    "trailer": ""
+  },
+  {
+    "id": 120,
+    "title": "Baahubali: The Beginning",
+    "vote_average": 8.0,
+    "overview": "An epic tale of a man’s rise to the throne in a mythical kingdom.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "actors": ["Prabhas", "Rana Daggubati"],
+    "release_year": 2015,
+    "trailer": ""
+  }
+]
+
+
